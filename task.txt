@@ -1,0 +1,10 @@
+"Imagine that you are conducting user studies to evaluate several types of menus for their performance on navigating. Here, please compute mean and standard deviation for each scenario.
+The first dataset contains user id, type of menu and time. There are a total of 40 users, 10 each for a particular menu type. So, there are 4 groups of users and it’s a between-group design. 
+ANOVA (​20pts​, grading will be based on a test dataset)(20pts)[use time~menu pair]
+Visualize the data point of above parameters(Example using box-plot)(​20pts​)[show fields like mean]
+
+Second dataset user id, type of menu, error and time. There are a total of 10 users, each user testing each menu type. It’s a with-in subject design.
+Find the mean and standard deviation for each menu (for both time and error field) and compare them in your report.(​20pts​)
+Visualize the data point of above parameters(Example using box-plot)(​20pts​)
+
+Write a report on what insights you gained from the data after performing the tests. You can go through HCI research papers, especially CHI papers, to get an idea of how results are reported. (​20pts​)"
